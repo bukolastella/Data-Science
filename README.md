@@ -1,6 +1,6 @@
 # DATA SCIENCE EXAMPLES
 
-A collection jupyter notebooks with solved examples of datasets including 
+A collection of jupyter notebooks with solved examples of datasets including 
 
 -DATA ANALYSIS AND VISUALIZATION
 
