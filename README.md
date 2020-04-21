@@ -39,10 +39,14 @@ The following includes projects name and links to their corresponding dataset
 * [HeartStudy.ipynb](https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset)
 * [Mushrooms.ipynb](https://www.kaggle.com/uciml/mushroom-classification)
 * [Wine.ipynb](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
-
-
-* dataset_for_machine_learning:contains datasets used in Machine Learning
 #### In addition datasets can also be gotten from this folder
+* dataset_for_machine_learning:contains datasets used in Machine Learning
+
+## Install the requirements
+* Install the requirements using `pip install -r requirements.txt.`
+* Make sure you use Python 3.
+* You may want to use a virtual environment for this.
+
 
 
 
