@@ -2,8 +2,10 @@
 
 A collection of solved examples of datasets including 
 
--DATA ANALYSIS AND VISUALIZATION,
+-DATA ANALYSIS AND VISUALIZATION
+
 -predicting with machine learning models like Linear Regression and Logistic Regression
+
 -also using other models to check accuracy
 
 
