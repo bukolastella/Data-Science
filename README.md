@@ -11,7 +11,9 @@ A collection of solved examples of datasets including
 
 # PROJECTS AND DATASETS
 All datasets were gotten from kaggle
+
 Description of all datasets and the datasets can be gotten from kaggle
+
 The following includes projects name and links to their corresponding dataset
 ### 1.DATA ANALYSIS AND VISUALIZATION
 
