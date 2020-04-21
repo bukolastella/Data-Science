@@ -35,17 +35,14 @@ The following includes projects name and links to their corresponding dataset
 #### -Logistic Regression
 
 * [Admission.ipynb](https://www.kaggle.com/mohansacharya/graduate-admissions#Admission_Predict_Ver1.1.csv)
-* [COVID19.ipynb](https://www.kaggle.com/kimjihoo/coronavirusdataset)
-* [googleplaystore.ipynb](https://www.kaggle.com/lava18/google-play-store-apps)
-* [hotel_booking.ipynb](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
-* [movies.ipynb](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
-* [video_game_sales.ipynb](https://www.kaggle.com/gregorut/videogamesales)
+* [Customer_churn.ipynb](https://www.kaggle.com/blastchar/telco-customer-churn)
+* [HeartStudy.ipynb](https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset)
+* [Mushrooms.ipynb](https://www.kaggle.com/uciml/mushroom-classification)
+* [Wine.ipynb](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
 
 
 * dataset_for_machine_learning:contains datasets used in Machine Learning
-
-
-
+#### In addition datasets can also be gotten from this folder
 
 
 
