@@ -24,7 +24,7 @@ The following includes projects name and links to their corresponding dataset
 * [movies](https://www.kaggle.com/tmdb/tmdb-movie-metadata#tmdb_5000_movies.csv)
 * [video_game_sales](https://www.kaggle.com/gregorut/videogamesales)
 #### In addition datasets can also be gotten from this folder
-* dataset_for_Data_analysis_visualization: contains datasets used in DATA ANALYSIS AND VISUALIZATION
+* dataset_for_Data_analysis_visualization:  contains datasets used in DATA ANALYSIS AND VISUALIZATION
 ### 2.MACHINE LEARNING
 #### -Linear Regression
 
@@ -40,7 +40,7 @@ The following includes projects name and links to their corresponding dataset
 * [Mushrooms](https://www.kaggle.com/uciml/mushroom-classification)
 * [Wine](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
 #### In addition datasets can also be gotten from this folder
-* dataset_for_machine_learning:contains datasets used in Machine Learning
+* dataset_for_machine_learning:  contains datasets used in Machine Learning
 
 ## Install the requirements
 * Install the requirements using `pip install -r requirements.txt.`
